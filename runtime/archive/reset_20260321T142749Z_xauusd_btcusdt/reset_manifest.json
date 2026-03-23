@@ -1,0 +1,29 @@
+{
+  "generated_at": "2026-03-21T14:27:49.752759+00:00",
+  "mt5_symbol": "XAUUSD",
+  "binance_symbol": "BTCUSDT",
+  "include_operator_state": false,
+  "include_tradingview_state": false,
+  "moved_paths": [],
+  "skipped_paths": [
+    "state/latest_snapshot.json",
+    "state/mt5_xauusd_service_status.json",
+    "state/vps_stack_xauusd_status.json",
+    "state/production_stack_xauusd_status.json",
+    "state/production_guard_xauusd_status.json",
+    "state/performance_mt5_xauusd.json",
+    "state/binance_btcusdt_snapshot.json",
+    "state/binance_btcusdt_service_status.json",
+    "state/binance_stack_btcusdt_status.json",
+    "state/binance_production_btcusdt_status.json",
+    "state/production_guard_btcusdt_status.json",
+    "state/performance_binance_btcusdt.json",
+    "state/binance_btcusdt_paper_account.json",
+    "logs/mt5_xauusd_execution_ledger.json",
+    "logs/binance_btcusdt_execution_ledger.json",
+    "history/performance_mt5_xauusd.jsonl",
+    "history/performance_binance_btcusdt.jsonl"
+  ],
+  "active_lock_count": 0,
+  "stale_lock_count": 0
+}

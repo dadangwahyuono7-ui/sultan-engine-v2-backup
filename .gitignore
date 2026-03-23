@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Runtime artifacts
+runtime/state/
+runtime/logs/
+runtime/journal/
+
+# Local env / secrets
+.env
+*.env
+sultan.env
+.env.local
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
